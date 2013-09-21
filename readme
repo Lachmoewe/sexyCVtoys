@@ -1,0 +1,9 @@
+Benötigte Pakete (Debian/Ubuntu):
+libopencv-dev
+libopencv-objdetect-dev
+
+in diesem Ordner in der shell dann folgendes eingeben:
+make
+
+kann ein wenig dauern.
+final ist das für das praktikum zu nutzende programm.
